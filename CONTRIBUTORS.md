@@ -2,11 +2,11 @@
 
 # Contributors
 
-11 people have made their first contribution to VOSS Labs.
+12 people have made their first contribution to VOSS Labs.
 
-**By year:** FE 3 · TE 4 · BE 4
+**By year:** FE 3 · TE 4 · BE 5
 
-**By skill:** python 9 · git 8 · javascript 6 · java 5 · react 5 · c-cpp 4 · sql 3 · dsa 2 · typescript 2 · go 1 · html-css 1
+**By skill:** python 10 · git 9 · javascript 6 · react 6 · java 5 · c-cpp 4 · sql 4 · dsa 2 · typescript 2 · html-css 2 · go 1
 
 | Name | Year | Branch | Knows | Wants to learn |
 | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | [Anup Sawant](https://github.com/anup-sawant12) | TE | EXCS | c-cpp, python, javascript, react, git | Java,Node.js,Express.js,Django,REST APIs,MySQL,MongoDB,Open Source |
 | [Armash Ansari](https://github.com/armash66) | TE | EXCS | git, python, javascript, react, sql | Systems Designing,Open Source |
 | [Harshal More](https://github.com/harshalmore31) | BE | EXCS | git, c-cpp, java, python, javascript, typescript, react, sql, go | neural systems and brain-inspired computation |
+| [Kanchan Chavan](https://github.com/kanchanc03-momo) | BE | EXCS | python, sql, react, html-css, git | interested more in AI/ML driven projects, solving real life problems, I have also worked on postgres projects |
 | [Kashvi Rajput](https://github.com/kashvirajput29) | FE | EXCS | python, java | Node.js,Django,REST APIs,MongoDB,Open Source |
 | [Mandar Patil](https://github.com/Mandar885) | BE | EXCS | python, sql, git, react, dsa, javascript, html-css, c-cpp | contribute in AI/ML and Data science projects |
 | [Om Yewale](https://github.com/OMEE-Y) | TE | INFT | git, java, javascript, typescript | backend and ml |
