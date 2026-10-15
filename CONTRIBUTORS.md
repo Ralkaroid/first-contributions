@@ -2,11 +2,11 @@
 
 # Contributors
 
-12 people have made their first contribution to VOSS Labs.
+13 people have made their first contribution to VOSS Labs.
 
-**By year:** FE 3 · TE 4 · BE 5
+**By year:** FE 3 · TE 5 · BE 5
 
-**By skill:** python 10 · git 9 · javascript 6 · react 6 · java 5 · c-cpp 4 · sql 4 · dsa 2 · typescript 2 · html-css 2 · go 1
+**By skill:** python 11 · git 9 · java 6 · javascript 6 · react 6 · c-cpp 4 · sql 4 · dsa 2 · typescript 2 · html-css 2 · go 1
 
 | Name | Year | Branch | Knows | Wants to learn |
 | --- | --- | --- | --- | --- |
@@ -19,6 +19,7 @@
 | [Kashvi Rajput](https://github.com/kashvirajput29) | FE | EXCS | python, java | Node.js,Django,REST APIs,MongoDB,Open Source |
 | [Mandar Patil](https://github.com/Mandar885) | BE | EXCS | python, sql, git, react, dsa, javascript, html-css, c-cpp | contribute in AI/ML and Data science projects |
 | [Om Yewale](https://github.com/OMEE-Y) | TE | INFT | git, java, javascript, typescript | backend and ml |
+| [Piyush Tiwari](https://github.com/piyush-tiwari-dev) | TE | EXCS | python, java | web development |
 | [Raj Mali](https://github.com/Rajmali-22) | BE | EXCS | python, javascript, git | open source contribution |
 | [Shardul Chogale](https://github.com/shard-c6) | TE | CMPN | python, git, dsa, c-cpp, java | — |
 | [Trupti Vibhute](https://github.com/st4rburg3r) | BE | EXCS | git, python | Cloud Infrastructure Development |
