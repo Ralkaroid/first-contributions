@@ -15,7 +15,7 @@ branch: EXCS
 knows:  git, dsa, c-cpp, java, python, javascript
 
 # One line, in your own words. Optional.
-wants: web development, Physical AI, Computational Embeeded Systems
+wants: web development, Physical AI, Intelligent Embeeded Systems
 ---
 
 Two or three lines about yourself. Why you joined, what you want to build,
